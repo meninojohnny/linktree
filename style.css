@@ -14,7 +14,7 @@ body {
 }
 
 .background {
-    height: 120px;
+    height: 140px;
     width: 100vw;
     background-color: #748c8f;
     background-image: url("assets/images/background.gif");
@@ -98,6 +98,7 @@ section h4 {
     border-radius: 50px;
     margin-top: 15px;
     transition: .8s;
+    text-decoration: none;
 }
 
 .link-item:hover {
